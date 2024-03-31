@@ -40,7 +40,7 @@ Ball Obstacles 3D Game is a simple game developed using React 3 Fiber, where pla
 1. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to play the game.
